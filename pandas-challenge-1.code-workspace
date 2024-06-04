@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../04-Pandas-Data-Preparation-1"
+		},
+		{
+			"path": "../../pandas_data"
+		},
+		{
+			"path": "../M4_Starter_Code/Starter_Code"
+		},
+		{
+			"path": "../../05-Pandas-Data-Preparation-2"
+		}
+	]
+}
